@@ -511,18 +511,3 @@ FROM bitnami/mariadb:10.2.43-debian-10-r13
 
 # Tags: 10.6.7-debian-10-r12
 FROM bitnami/mariadb:10.6.7-debian-10-r12
-
-# Tags: 10.3.34-debian-10-r15
-FROM bitnami/mariadb:10.3.34-debian-10-r15
-
-# Tags: 10.5.15-debian-10-r13
-FROM bitnami/mariadb:10.5.15-debian-10-r13
-
-# Tags: 10.4.24-debian-10-r13
-FROM bitnami/mariadb:10.4.24-debian-10-r13
-
-# Tags: 10.2.43-debian-10-r12
-FROM bitnami/mariadb:10.2.43-debian-10-r12
-
-# Tags: 10.6.7-debian-10-r11
-FROM bitnami/mariadb:10.6.7-debian-10-r11
