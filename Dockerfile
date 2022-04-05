@@ -1,42 +1,126 @@
-# Tags: 10.3.34-debian-10-r45, 10.3.34, 10.3-debian-10, 10.3
-FROM bitnami/mariadb:10.3.34-debian-10-r45
-FROM bitnami/mariadb:10.3.34
-FROM bitnami/mariadb:10.3-debian-10
-FROM bitnami/mariadb:10.3
-
-# Tags: _
-FROM bitnami/mariadb:_
-
-# Tags: 10.5.15-debian-10-r43, 10.5.15, 10.5-debian-10, 10.5
-FROM bitnami/mariadb:10.5.15-debian-10-r43
+# Tags: 10.5.15-debian-10-r48, 10.5.15, 10.5-debian-10, 10.5
+FROM bitnami/mariadb:10.5.15-debian-10-r48
 FROM bitnami/mariadb:10.5.15
 FROM bitnami/mariadb:10.5-debian-10
 FROM bitnami/mariadb:10.5
 
-# Tags: 10.4.24-debian-10-r43, 10.4.24, 10.4-debian-10, 10.4
-FROM bitnami/mariadb:10.4.24-debian-10-r43
+# Tags: _
+FROM bitnami/mariadb:_
+
+# Tags: 10.4.24-debian-10-r48, 10.4.24, 10.4-debian-10, 10.4
+FROM bitnami/mariadb:10.4.24-debian-10-r48
 FROM bitnami/mariadb:10.4.24
 FROM bitnami/mariadb:10.4-debian-10
 FROM bitnami/mariadb:10.4
 
-# Tags: 10.6.7-debian-10-r42, 10.6.7, 10.6-debian-10, 10.6
-FROM bitnami/mariadb:10.6.7-debian-10-r42
+# Tags: 10.6.7-debian-10-r47, 10.6.7, 10.6-debian-10, 10.6
+FROM bitnami/mariadb:10.6.7-debian-10-r47
 FROM bitnami/mariadb:10.6.7
 FROM bitnami/mariadb:10.6-debian-10
 FROM bitnami/mariadb:10.6
 
-# Tags: 10.2.43-debian-10-r42, 10.2.43, 10.2-debian-10, 10.2
-FROM bitnami/mariadb:10.2.43-debian-10-r42
+# Tags: latest, 10.7.3-debian-10-r17, 10.7.3, 10.7-debian-10, 10.7
+FROM bitnami/mariadb:latest
+FROM bitnami/mariadb:10.7.3-debian-10-r17
+FROM bitnami/mariadb:10.7.3
+FROM bitnami/mariadb:10.7-debian-10
+FROM bitnami/mariadb:10.7
+
+# Tags: 10.2.43-debian-10-r47, 10.2.43, 10.2-debian-10, 10.2
+FROM bitnami/mariadb:10.2.43-debian-10-r47
 FROM bitnami/mariadb:10.2.43
 FROM bitnami/mariadb:10.2-debian-10
 FROM bitnami/mariadb:10.2
 
-# Tags: latest, 10.7.3-debian-10-r12, 10.7.3, 10.7-debian-10, 10.7
-FROM bitnami/mariadb:latest
+# Tags: 10.3.34-debian-10-r49, 10.3.34, 10.3-debian-10, 10.3
+FROM bitnami/mariadb:10.3.34-debian-10-r49
+FROM bitnami/mariadb:10.3.34
+FROM bitnami/mariadb:10.3-debian-10
+FROM bitnami/mariadb:10.3
+
+# Tags: 10.5.15-debian-10-r47
+FROM bitnami/mariadb:10.5.15-debian-10-r47
+
+# Tags: 10.4.24-debian-10-r47
+FROM bitnami/mariadb:10.4.24-debian-10-r47
+
+# Tags: 10.6.7-debian-10-r46
+FROM bitnami/mariadb:10.6.7-debian-10-r46
+
+# Tags: 10.2.43-debian-10-r46
+FROM bitnami/mariadb:10.2.43-debian-10-r46
+
+# Tags: 10.7.3-debian-10-r16
+FROM bitnami/mariadb:10.7.3-debian-10-r16
+
+# Tags: 10.3.34-debian-10-r48
+FROM bitnami/mariadb:10.3.34-debian-10-r48
+
+# Tags: 10.5.15-debian-10-r46
+FROM bitnami/mariadb:10.5.15-debian-10-r46
+
+# Tags: 10.4.24-debian-10-r46
+FROM bitnami/mariadb:10.4.24-debian-10-r46
+
+# Tags: 10.6.7-debian-10-r45
+FROM bitnami/mariadb:10.6.7-debian-10-r45
+
+# Tags: 10.2.43-debian-10-r45
+FROM bitnami/mariadb:10.2.43-debian-10-r45
+
+# Tags: 10.7.3-debian-10-r15
+FROM bitnami/mariadb:10.7.3-debian-10-r15
+
+# Tags: 10.3.34-debian-10-r47
+FROM bitnami/mariadb:10.3.34-debian-10-r47
+
+# Tags: 10.5.15-debian-10-r45
+FROM bitnami/mariadb:10.5.15-debian-10-r45
+
+# Tags: 10.4.24-debian-10-r45
+FROM bitnami/mariadb:10.4.24-debian-10-r45
+
+# Tags: 10.6.7-debian-10-r44
+FROM bitnami/mariadb:10.6.7-debian-10-r44
+
+# Tags: 10.2.43-debian-10-r44
+FROM bitnami/mariadb:10.2.43-debian-10-r44
+
+# Tags: 10.7.3-debian-10-r14
+FROM bitnami/mariadb:10.7.3-debian-10-r14
+
+# Tags: 10.3.34-debian-10-r46
+FROM bitnami/mariadb:10.3.34-debian-10-r46
+
+# Tags: 10.5.15-debian-10-r44
+FROM bitnami/mariadb:10.5.15-debian-10-r44
+
+# Tags: 10.4.24-debian-10-r44
+FROM bitnami/mariadb:10.4.24-debian-10-r44
+
+# Tags: 10.6.7-debian-10-r43
+FROM bitnami/mariadb:10.6.7-debian-10-r43
+
+# Tags: 10.2.43-debian-10-r43
+FROM bitnami/mariadb:10.2.43-debian-10-r43
+
+# Tags: 10.3.34-debian-10-r45
+FROM bitnami/mariadb:10.3.34-debian-10-r45
+
+# Tags: 10.5.15-debian-10-r43
+FROM bitnami/mariadb:10.5.15-debian-10-r43
+
+# Tags: 10.4.24-debian-10-r43
+FROM bitnami/mariadb:10.4.24-debian-10-r43
+
+# Tags: 10.6.7-debian-10-r42
+FROM bitnami/mariadb:10.6.7-debian-10-r42
+
+# Tags: 10.2.43-debian-10-r42
+FROM bitnami/mariadb:10.2.43-debian-10-r42
+
+# Tags: 10.7.3-debian-10-r12
 FROM bitnami/mariadb:10.7.3-debian-10-r12
-FROM bitnami/mariadb:10.7.3
-FROM bitnami/mariadb:10.7-debian-10
-FROM bitnami/mariadb:10.7
 
 # Tags: 10.3.34-debian-10-r44
 FROM bitnami/mariadb:10.3.34-debian-10-r44
@@ -433,81 +517,3 @@ FROM bitnami/mariadb:10.6.7-debian-10-r18
 
 # Tags: 10.2.43-debian-10-r18
 FROM bitnami/mariadb:10.2.43-debian-10-r18
-
-# Tags: 10.4.24-debian-10-r18
-FROM bitnami/mariadb:10.4.24-debian-10-r18
-
-# Tags: 10.5.15-debian-10-r18
-FROM bitnami/mariadb:10.5.15-debian-10-r18
-
-# Tags: 10.3.34-debian-10-r20
-FROM bitnami/mariadb:10.3.34-debian-10-r20
-
-# Tags: 10.6.7-debian-10-r17
-FROM bitnami/mariadb:10.6.7-debian-10-r17
-
-# Tags: 10.2.43-debian-10-r17
-FROM bitnami/mariadb:10.2.43-debian-10-r17
-
-# Tags: 10.4.24-debian-10-r17
-FROM bitnami/mariadb:10.4.24-debian-10-r17
-
-# Tags: 10.5.15-debian-10-r17
-FROM bitnami/mariadb:10.5.15-debian-10-r17
-
-# Tags: 10.3.34-debian-10-r19
-FROM bitnami/mariadb:10.3.34-debian-10-r19
-
-# Tags: 10.6.7-debian-10-r16
-FROM bitnami/mariadb:10.6.7-debian-10-r16
-
-# Tags: 10.2.43-debian-10-r16
-FROM bitnami/mariadb:10.2.43-debian-10-r16
-
-# Tags: 10.4.24-debian-10-r16
-FROM bitnami/mariadb:10.4.24-debian-10-r16
-
-# Tags: 10.5.15-debian-10-r16
-FROM bitnami/mariadb:10.5.15-debian-10-r16
-
-# Tags: 10.2.43-debian-10-r15
-FROM bitnami/mariadb:10.2.43-debian-10-r15
-
-# Tags: 10.6.7-debian-10-r15
-FROM bitnami/mariadb:10.6.7-debian-10-r15
-
-# Tags: 10.3.34-debian-10-r18
-FROM bitnami/mariadb:10.3.34-debian-10-r18
-
-# Tags: 10.6.7-debian-10-r14
-FROM bitnami/mariadb:10.6.7-debian-10-r14
-
-# Tags: 10.5.15-debian-10-r15
-FROM bitnami/mariadb:10.5.15-debian-10-r15
-
-# Tags: 10.3.34-debian-10-r17
-FROM bitnami/mariadb:10.3.34-debian-10-r17
-
-# Tags: 10.4.24-debian-10-r15
-FROM bitnami/mariadb:10.4.24-debian-10-r15
-
-# Tags: 10.2.43-debian-10-r14
-FROM bitnami/mariadb:10.2.43-debian-10-r14
-
-# Tags: 10.6.7-debian-10-r13
-FROM bitnami/mariadb:10.6.7-debian-10-r13
-
-# Tags: 10.5.15-debian-10-r14
-FROM bitnami/mariadb:10.5.15-debian-10-r14
-
-# Tags: 10.3.34-debian-10-r16
-FROM bitnami/mariadb:10.3.34-debian-10-r16
-
-# Tags: 10.4.24-debian-10-r14
-FROM bitnami/mariadb:10.4.24-debian-10-r14
-
-# Tags: 10.2.43-debian-10-r13
-FROM bitnami/mariadb:10.2.43-debian-10-r13
-
-# Tags: 10.6.7-debian-10-r12
-FROM bitnami/mariadb:10.6.7-debian-10-r12
